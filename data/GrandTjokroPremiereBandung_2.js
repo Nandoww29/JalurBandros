@@ -1,0 +1,1 @@
+var json_GrandTjokroPremiereBandung_2 = {"type":"FeatureCollection","name":"GrandTjokroPremiereBandung_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama Hotel":"Grand Tjokro Premiere Bandung"},"geometry":{"type":"Point","coordinates":[107.603723320490886,-6.886237171333752]}}]}
